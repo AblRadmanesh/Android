@@ -29,13 +29,3 @@
 | ![فایل](./res/drawable/logo_Android.png)| ![یوتیوب](./res/drawable/logo_youtube.png)| ![logo](./res/drawable/logo.png)| foreach|
 | ![فایل](./res/drawable/logo_Android.png)| ![یوتیوب](./res/drawable/logo_youtube.png)| ![logo](./res/drawable/logo.png)| شکستن حلقه|
 | ![فایل](./res/drawable/logo_Android.png)| ![یوتیوب](./res/drawable/logo_youtube.png)| ![logo](./res/drawable/logo.png)| حلقه بینهایت|
-
-## 2. آموزش سینتکس زبانی
-
-|موضوع|آپارات|یوتیوب|فایل ها|
-|:-------:|:------:|:------:|:-----:|
-|متغییر ها|![یوتیوب](./res/drawable/logo_youtube.png)|![logo](./res/drawable/logo.png)|![فایل](./res/drawable/logo_Android.png)|
-|متغییر ها|![یوتیوب](./res/drawable/logo_youtube.png)|![logo](./res/drawable/logo.png)|![فایل](./res/drawable/logo_Android.png)|
-|متغییر ها|![یوتیوب](./res/drawable/logo_youtube.png)|![logo](./res/drawable/logo.png)|![فایل](./res/drawable/logo_Android.png)|
-|متغییر ها|![یوتیوب](./res/drawable/logo_youtube.png)|![logo](./res/drawable/logo.png)|![فایل](./res/drawable/logo_Android.png)|
-
