@@ -1,8 +1,7 @@
 
 # آموزش اندروید
 
-## 1. آموزش سینتکس زبانی کاتلین  
-![kotlin](https://kotlinlang.org/docs/images/kotlin-logo.png)
+## 1. آموزش سینتکس زبانی کاتلین      ![kotlin](./res/drawable/logo_kotlin.png)
 | فایل ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
 | ![فایل](./res/drawable/logo_Android.png)| ![یوتیوب](./res/drawable/logo_youtube.png)| ![logo](./res/drawable/logo.png)| تفاوت Primitive و Non-Primitive|
