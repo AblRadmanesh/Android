@@ -1,8 +1,9 @@
 
 # آموزش اندروید
 
-## 1. آموزش سینتکس زبانی
-| فایل ها                                | آپارات                                 | یوتیوب                                  | موضوع                               |
+## 1. آموزش سینتکس زبانی کاتلین  
+![kotlin](https://kotlinlang.org/docs/images/kotlin-logo.png)
+| فایل ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
 | ![فایل](./res/drawable/logo_Android.png)| ![یوتیوب](./res/drawable/logo_youtube.png)| ![logo](./res/drawable/logo.png)| تفاوت Primitive و Non-Primitive|
 | ![فایل](./res/drawable/logo_Android.png)| ![یوتیوب](./res/drawable/logo_youtube.png)| ![logo](./res/drawable/logo.png)| انواع داده در جاوا|
