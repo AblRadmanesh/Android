@@ -8,18 +8,18 @@
 ## 1.آموزش دور زدن محدودیت ها
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|مقدمه|
+[![logo_Android](./res/drawable/logo_Android.png)](https://developer.android.com/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=lMDABH8kumM)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/rYPsk)|مقدمه|
 ### &emsp;&emsp;&emsp;&emsp; 1.1 سرویس 403
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.1.1 ویندوز
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|برنامه|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|DNS|
+[![logo_Android](./res/drawable/logo_Android.png)](https://403.online/download)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=bEBCFmBc0_k)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/8SHRv)|DNS|
+[![logo_Android](./res/drawable/logo_Android.png)](https://403.online/download)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=sF-zORcwz50)|[![logo](./res/drawable/logo.png)]()|برنامه|
 
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.1.2 لینوکس
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|DNS|
+[![logo_Android](./res/drawable/logo_Android.png)](https://403.online/download)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=UnLU2n2whhc)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/KuicZ)|DNS|
 
 ---
 
@@ -27,12 +27,12 @@
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.2.1 ویندوز
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|DNS|
+[![logo_Android](./res/drawable/logo_Android.png)](https://shecan.ir/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=dJERr9MW1Gk)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/B7nds)|DNS|
 
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.2.2 لینوکس
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|DNS|
+[![logo_Android](./res/drawable/logo_Android.png)](https://shecan.ir/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=eh4-cvFBzcE)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/faZVh)|DNS|
 
 ---
 
@@ -40,16 +40,16 @@
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.3.1 اندروید استودیو http
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|تنظیم http پروکسی|
+[![logo_Android](./res/drawable/logo_Android.png)](https://play.google.com/store/apps/details?id=com.gorillasoftware.everyproxy&hl=en_US&pli=1)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=uikbBA8wOmI)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/qj5xt)|تنظیم http پروکسی|
 
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.3.2 افرونه Proxy Helper
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|تنظیم http,socks پروکسی|
+[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android/files/12091938/default.pdf)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=qHhv9H5df3Y)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/xqbLY)|تنظیم http,socks پروکسی|
 ---
 
 ### &emsp;&emsp;&emsp;&emsp; 1.4 تجارب
 
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://github.com/AblRadmanesh/Android)|[![logo](./res/drawable/logo.png)](https://github.com/AblRadmanesh/Android)|صحبت های پایانی|
+[![logo_Android](./res/drawable/logo_Android.png)]()|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=Xmpqum-z65M)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/0RIzX)|صحبت های پایانی|
