@@ -14,7 +14,7 @@
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
 [![logo_Android](./res/drawable/logo_Android.png)](https://403.online/download)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=bEBCFmBc0_k)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/8SHRv)|DNS|
-[![logo_Android](./res/drawable/logo_Android.png)](https://403.online/download)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=sF-zORcwz50)|[![logo](./res/drawable/logo.png)]()|برنامه|
+[![logo_Android](./res/drawable/logo_Android.png)](https://403.online/download)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=sF-zORcwz50)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/ZNJUB)|برنامه|
 
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.1.2 لینوکس
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
