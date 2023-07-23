@@ -77,9 +77,9 @@
 همچنین این برنامه به شما برای مواقع خاص دسترسی حذف کل محتوای برنامه اندروید استودیو را نیر میدهد.
 
 
-[برای دانلود برنامه روی متن یا ایکون قسمت پیوست ها کلیک کنید.](https://github.com/AblRadmanesh/Android/files/12138375/LearnDotRoid.zip)
+[برای دانلود برنامه روی متن یا ایکون قسمت پیوست ها کلیک کنید.](https://github.com/AblRadmanesh/DNSchanger)
 
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android/files/12138375/LearnDotRoid.zip)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|برنامه مجموعه|
+[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/DNSchanger)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|برنامه مجموعه|
 
