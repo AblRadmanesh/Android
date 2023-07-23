@@ -69,3 +69,13 @@
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
 [![logo_Android](./res/drawable/logo_Android.png)]()|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=Xmpqum-z65M)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/0RIzX)|صحبت های پایانی|
+
+---
+### &emsp;&emsp;&emsp;&emsp; 1.5 برنامه تغییر دی ان اس 
+این برنامه توسط خود مجموعه لرن دات روید ساخته و تهیه شده.در این برنامه شما میتوانید به ساده ترین شکل ممکن بین دی ان اس شکن و 403 جابجا و یا کلا دی انس ها را حذف کنید.
+
+همچنین این برنامه به شما برای مواقع خاص دسترسی حذف کل محتوای برنامه اندروید استودیو را نیر میدهد.
+
+| پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
+|:----:|:------:|:----:|:----:|
+[![logo_Android](./res/drawable/logo_Android.png)]()|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=Xmpqum-z65M)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/0RIzX)|برنامه مجموعه|
