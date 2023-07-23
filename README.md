@@ -78,5 +78,5 @@
 
 | پیوست ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
-[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android/files/12138375/LearnDotRoid.zip)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/0RIzX)|برنامه مجموعه|
+[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android/files/12138375/LearnDotRoid.zip)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|برنامه مجموعه|
 
