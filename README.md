@@ -3,6 +3,12 @@
 امیدوارم حال دلتون خوب باشه
 
 
+سرفصل ها :
+
+[1.آموزش دور زدن محدودیت ها](#1آموزش-دور-زدن-محدودیت-ها)
+
+[2.آموزش نصب اندروید استودیو](#2آموزش-نصب-اندروید-استودیو)
+
 در این ریپو سعی دارم منبعی فارسی زبان برای آموزش اندروید به صورت کامل تهیه کنم امیدوارم براتون ارزشمند باشه و بتونه خیلی کمکتون کنه❤️
 
 
@@ -83,3 +89,22 @@
 |:----:|:------:|:----:|:----:|
 [![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/DNSchanger)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=cIVo5sNkda8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/24qDi)|برنامه مجموعه|
 
+
+---
+
+---
+
+## 2.آموزش نصب اندروید استودیو
+
+### &emsp;&emsp;&emsp;&emsp; 2.1 سایت developer.android.com
+| فایل ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
+|:----:|:------:|:----:|:----:|
+[![logo_Android](./res/drawable/logo_Android.png)](https://developer.android.com/studio)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtu.be/BgIHU09DNe8)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/OjBqu)|ویندوز|
+[![logo_Android](./res/drawable/logo_Android.png)](https://developer.android.com/studio)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtu.be/XdzW1kmOric)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/DV0aU)|لینوکس|
+
+
+### &emsp;&emsp;&emsp;&emsp; 2.2 تولباکس (پشنهادی)
+| فایل ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
+|:----:|:------:|:----:|:----:|
+[![logo_Android](./res/drawable/logo_Android.png)](https://www.jetbrains.com/toolbox-app/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtu.be/COtlHtvAiC0)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/bilpq)|توضیح درباره تنظیمات|
+[![logo_Android](./res/drawable/logo_Android.png)](https://www.jetbrains.com/toolbox-app/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtu.be/0xz6GtGOu7Q)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/TO46Y)|نصب اندروید استودیو|
