@@ -112,3 +112,13 @@
 |:----:|:------:|:----:|:----:|
 [![logo_Android](./res/drawable/logo_Android.png)](https://www.jetbrains.com/toolbox-app/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtu.be/COtlHtvAiC0)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/bilpq)|توضیح درباره تنظیمات|
 [![logo_Android](./res/drawable/logo_Android.png)](https://www.jetbrains.com/toolbox-app/)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://youtu.be/0xz6GtGOu7Q)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/TO46Y)|نصب اندروید استودیو|
+
+---
+
+---
+
+## 3. آشنایی با محیط اندروید استودیو مقدماتی
+
+| فایل ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
+|:----:|:------:|:----:|:----:|
+[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=E2Jrz2dOrhg)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/1SBlX)|ساخت پروژه|
