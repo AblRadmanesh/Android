@@ -124,3 +124,4 @@
 | فایل ها                                | یوتیوب                                 | آپارات                                  | موضوع                               |
 |:----:|:------:|:----:|:----:|
 [![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=E2Jrz2dOrhg)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/1SBlX)|ساخت پروژه|
+[![logo_Android](./res/drawable/logo_Android.png)](https://github.com/AblRadmanesh/Android)|[![logo_youtube](./res/drawable/logo_youtube.png)](https://www.youtube.com/watch?v=-hXfQ5E0WWw)|[![logo](./res/drawable/logo.png)](https://www.aparat.com/v/rhNta)|مفاهیم اولیه ساختار پروژه|
